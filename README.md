@@ -1,3 +1,3 @@
 # SysAd
 
-Repository for System Admin
+Compilation of tips and trick that can help System Administrator
