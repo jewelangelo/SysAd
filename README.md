@@ -1,3 +1,3 @@
 # SysAd
 
-Compilation of tips and trick that can help System Administrator
+Compilation of scripts that can help System Administrator for day to day.
